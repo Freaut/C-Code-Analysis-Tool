@@ -1,0 +1,44 @@
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\Code Analysis Tool.exe
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\Code Analysis Tool.deps.json
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\Code Analysis Tool.runtimeconfig.json
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\Code Analysis Tool.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\Code Analysis Tool.pdb
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\obj\Debug\net7.0\Code Analysis Tool.csproj.AssemblyReference.cache
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\obj\Debug\net7.0\Code Analysis Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\obj\Debug\net7.0\Code Analysis Tool.AssemblyInfoInputs.cache
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\obj\Debug\net7.0\Code Analysis Tool.AssemblyInfo.cs
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\obj\Debug\net7.0\Code Analysis Tool.csproj.CoreCompileInputs.cache
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\obj\Debug\net7.0\Code Analysis Tool.csproj.CopyComplete
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\obj\Debug\net7.0\Code Analysis Tool.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\obj\Debug\net7.0\refint\Code Analysis Tool.dll
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\obj\Debug\net7.0\Code Analysis Tool.pdb
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\obj\Debug\net7.0\Code Analysis Tool.genruntimeconfig.cache
+C:\Users\thega\Desktop\Yes100\c#\Code Analysis Tool\Code Analysis Tool\obj\Debug\net7.0\ref\Code Analysis Tool.dll
